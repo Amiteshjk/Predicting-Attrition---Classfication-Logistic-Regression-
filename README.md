@@ -4,5 +4,5 @@ Predicting attrition based on Years of Experience, Work environment, Compensatio
 
 This is done using Classification algorithm - Logistic Regression
 
-Dataset - LR.xlsx
+Dataset - LR.xlsx , 
 Code - LR.R
